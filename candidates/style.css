@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #c0392b;
+    color: white;
+  }
+  
+  .navbar-nav > li > a {
+    color: white !important; /* Ensures link color is white */
+  }
+  
+  .navbar-nav > li > a:hover {
+    color: #e74c3c !important; /* Lighter red on hover */
+  }
+  
+  .user-image {
+    border-radius: 50%;
+  }
+  
